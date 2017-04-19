@@ -11,12 +11,22 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
+Apache https://httpd.apache.org/
+```
+
+```
 Python
 ```
 
 ```
 Django
 ```
+
+```
+Django REST framework
+```
+
+
 
 ### Installing
 
